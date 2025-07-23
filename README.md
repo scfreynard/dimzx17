@@ -14,7 +14,7 @@
   
   🚀 *Exploring data, building models, and creating meaningful solutions with code* 🚀
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=dimzx17&style=flat-square&color=brightgreen)
+  ![Profile Views](https://komarev.com/ghpvc/?username=scfreynard&style=flat-square&color=brightgreen)
   
 </div>
 
@@ -76,21 +76,21 @@
 
 <div align="center">
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dimzx17&show_icons=true&count_private=true&hide_border=true&title_color=00b4d6&icon_color=00b4d6&text_color=c9d1d9&bg_color=0d1117" alt="Ferdana's GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=scfreynard&show_icons=true&count_private=true&hide_border=true&title_color=00b4d6&icon_color=00b4d6&text_color=c9d1d9&bg_color=0d1117" alt="Ferdana's GitHub Stats" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimzx17&layout=compact&hide_border=true&title_color=00b4d6&text_color=00b4d6&bg_color=0d1117" />
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimzx17&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=00b4d6&fire=00b4d6&currStreakLabel=00b4d6" alt="Ferdana's GitHub Streak" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scfreynard&layout=compact&hide_border=true&title_color=00b4d6&text_color=00b4d6&bg_color=0d1117" />
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dimzx17&bg_color=0d1117&color=00b4d6&line=00b4d6&point=ffffff&area=true&hide_border=true" alt="Ferdana's GitHub Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scfreynard&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=00b4d6&fire=00b4d6&currStreakLabel=00b4d6" alt="Ferdana's GitHub Streak" />
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scfreynard&bg_color=0d1117&color=00b4d6&line=00b4d6&point=ffffff&area=true&hide_border=true" alt="Ferdana's GitHub Activity Graph" />
   
 </div>
 
@@ -120,7 +120,7 @@
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=dimzx17&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=scfreynard&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
   
 </div>
 
@@ -130,7 +130,7 @@
 
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/dimzx17/dimzx17/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/scfreynard/scfreynard/output/snake.svg" alt="Snake animation" />
   
 </div>
 
@@ -171,7 +171,7 @@
   ### ⭐ Star my repositories if you find them interesting!
   ### 🔔 Follow me for more amazing projects!
   
-  <img src="https://komarev.com/ghpvc/?username=dimzx17&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=scfreynard&style=flat-square&color=blue" alt="Profile views"/>
   
 </div>
 
